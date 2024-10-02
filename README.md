@@ -1,7 +1,7 @@
 # Repo des codes utiles divers
 histoire que la classe arrête de se demander des codes, si y en a besoin ils sont là (normalement mdr)
 
-**Uniquement pour les appareils windows:** pour ceux qui voudraient cloner tous les codes sur leur pc (et les actualiser en un clic):
+**Uniquement pour les appareils windows:** pour ceux qui voudraient cloner tous les codes sur leur pc (et les actualiser en un clic) :
 - téléchargez les fichers `setup.ps1` et `setup.bat` (dans le fichier clone_update, télecharger avec le bouton vert `<code>` en haut à droite), **gardez les dans votre dossier de téléchargements**
 - créez le fichier ou vous allez mettre les codes et copiez le chemin d'accès
 - lancez `setup.bat`
